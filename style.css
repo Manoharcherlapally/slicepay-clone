@@ -1,0 +1,509 @@
+.navbar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.i1{
+    height: 110px;
+    width:100px;
+    padding-left:70px;
+    padding-top: 10px;
+}
+.main1{
+    display: flex;
+    flex-direction: row;
+     justify-content: space-between;  
+    width: 100%;
+    padding-top: 30px;
+    padding-left: 590px;
+    padding-right: 150px;
+    font-family: serif;
+    color: #4c576b;
+}
+
+a{
+    text-decoration: none;
+}
+.parent1{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 40px;
+    margin: 10px;
+}
+
+.main2{
+    font-size: 2em;
+    font-family: verdana;
+     padding-left:120px ;
+     width: 50%; 
+}
+.main2 p{
+    font-size: 0.6cm;
+}
+button{
+    height: 50px;
+    width: 200px;
+    border-radius: 30px;
+    font-family: Verdana;
+    font-size: 15px;
+    
+}
+button:hover{
+
+    background-color: rgb(117, 29, 164);
+}
+.video1{
+    padding-right: 120px; 
+}
+.parent2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.video2{
+    width: 50%;
+    padding-left: 80px;
+    padding-top: 50px;
+   
+}
+.main3{
+    width: 50%;
+    font-size: 2em;
+    font-family: verdana;
+    padding-right: 150px;
+    padding-top: 100px;
+    padding-left: 160px;
+}
+.main3 p{
+    font-size: 0.6cm;
+    color: #4b5871;
+}
+.parent3{
+    width: 95%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 1.5rem;
+}
+.main4{
+    width: 50%;
+    font-size: 2em;
+    font-family: verdana;
+    padding-left: 130px;
+    padding-top: 180px;
+
+}
+.video3{
+    width: 50%;
+    padding-right: 150px;
+    padding-top: 0px;
+}
+.main4 p{
+    font-size: 0.8em;
+     color: #4b5871;
+}
+.parent4{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-top: 60px;
+    border-radius: 30px;
+    width: 55%;
+    margin-left: 13rem;
+    padding: 0% 5%;
+    
+}
+.video4{
+    width: 50%;
+    
+
+}
+.main5{
+    width: 50%;
+    font-size: 1.8em;
+    padding-top: 80px;
+}
+.parent5{
+    width: 70%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    margin-top: 6rem;
+    margin-left: 11rem;
+}
+.main6{
+    width: 38%;
+    padding-left: 2.5rem;
+    padding-top: 2.5rem;
+    background-color: rgba(52, 17, 227, 0.705);
+    border-radius: 1.2rem;
+    height: 35rem;
+}
+.image2{ width: 39%;
+    padding-top: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1.2rem;
+    padding-left: 3rem;
+    height: 35rem;
+    overflow: hidden;
+    
+}
+.main6 h1{
+    font-size: 3.67rem;
+}
+.image2 h1{
+    font-size: 2.5rem;
+    color: rgba(52, 17, 227, 0.705);
+
+}
+.parent6{
+    width: 68%;
+    height: 37rem;
+    display: flex;
+    margin-left: 13rem;
+    margin-top: 3rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1.2rem;
+    
+    
+}
+.video5{
+    width: 50%;
+    padding-right: 2rem;
+}
+.main7{
+    width: 50%;
+    padding-left: 6rem;
+    padding-top: 9rem;
+}
+.main7 h1{
+    font-size: 3.2rem;
+
+}
+.parent7{
+    width: 65%;
+    font-size: 2.2rem;
+    margin-left: 13rem;
+     background-color: black;
+    height: 28rem;
+    border-radius: 1.2rem;
+    padding-top: 5rem;
+    padding-left: 4rem;
+    margin-top: 5rem;
+    
+     
+}
+.parent7 h1{
+    color: white;
+    
+}
+.parent8{
+    width: 70%;
+    border: gray;
+}
+.parent8{
+    width: 70%;
+    display: flex;
+    margin-left: 13rem;
+    margin-top: 5rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1.2rem;
+}
+.main8{
+    padding-left: 2rem;
+    padding-top: 1.6rem;
+}
+.main8 h1{
+    font-size:3.5rem;
+}
+.video6{
+    padding-left: 3rem;
+}
+.parent9{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin-left: 13rem;
+    margin-top: 5rem;
+}
+.parent9-left{
+    width: 45%;
+    font-size: 1.8rem;
+    background-color: rgba(52, 17, 227, 0.705) ;
+    height: 42rem;
+    border-radius: 1.5rem;
+    padding-left: 2.3rem;
+}
+.parent9-right{
+    width: 40%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 42rem;
+    padding-left: 3rem;
+    border-radius: 1.5rem;
+    
+}
+.main9{
+    width: 40%;
+    font-size:1.5rem;
+}
+.video7{
+    width: 50%;
+    padding-left: 3rem;
+    
+}
+.parent10{
+    width: 70%;
+    font-size: 2.2rem;
+    margin-left: 13rem;
+    text-align: center;
+    margin-top: 8rem;
+}
+.twittertop{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 14rem;
+}
+.top1{
+    display: flex;
+    flex-direction: row;
+}
+.top2{
+    display: flex;
+    flex-direction: row;
+
+}
+.twitterleft1{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1.5rem;
+    margin-right: 1rem;
+    height: 24rem;
+    padding: 1rem;
+    
+
+}
+.twitterright1{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1.5rem;
+    margin-left: 1rem;
+    padding: 1rem;
+}
+.twittertop h2{
+    font-size: 1.4rem;
+}
+.accountname1{
+    padding-left: 3rem;
+
+}
+.accountname2{
+    padding-left: 3rem; 
+}
+.logo1{
+    padding-left: 5rem;
+    padding-top: 2rem;
+}
+.logo2{
+    padding-left: 8rem;
+    padding-top: 2rem;
+}
+.twittertop h1{
+    font-size: 1.7rem;
+}
+
+.image3{
+    padding-top: 1.2rem;
+}
+.image4{
+    padding-top: 1.2rem;
+}
+.twittermiddle{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 14rem;
+    margin-top: 3rem;
+
+}
+
+.top3{
+    display: flex;
+    flex-direction: row;
+}
+.top4{
+    display: flex;
+    flex-direction: row;
+
+}
+.middleleft{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1.5rem;
+    margin-right: 1rem;
+    height: 24rem;
+    padding: 1rem;
+    
+
+}
+.middleright{
+    width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1.5rem;
+    margin-left: 1rem;
+    padding: 1rem;
+}
+.twittermiddle h2{
+    font-size: 1.4rem;
+}
+.accountname3{
+    padding-left: 3rem;
+
+}
+.accountname4{
+    padding-left: 3rem; 
+}
+.logo3{
+    padding-left: 5rem;
+    padding-top: 2rem;
+}
+.logo4{
+    padding-left: 8rem;
+    padding-top: 2rem;
+}
+.twittermiddle h1{
+    font-size: 1.7rem;
+}
+.bottom{
+    padding-top: 2rem;
+
+}
+.image5{
+    padding-top: 1.2rem;
+}
+.image6{
+    padding-top: 1.2rem;
+}
+.twitterbottom{
+    width: 67%;
+    margin-left: 14rem;
+    margin-top: 3rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height: 25rem;
+    border-radius: 1.5rem;
+    padding: 1rem;
+
+}
+.top5{
+    display: flex;
+    flex-direction: row;
+}
+.accountname5{
+    padding-left: 3rem; 
+}
+.logo5{
+    padding-left: 30rem;
+    padding-top: 1rem;
+}
+.bottom1{
+    padding-top: 1.5rem;
+}
+.parent11{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 14rem;
+    background-color: #15CF74;
+    border-radius: 1.5rem;
+    margin-top: 6rem;
+}
+.image8{
+    width: 60%;
+    padding-left: 2.5rem;
+
+}
+.parentmini1{
+    width: 40%;
+}
+.parentmini2{
+    display: flex;
+    flex-direction: row;
+    padding-top: 3rem;
+    
+}
+.main10 h1{
+    font-size: 4rem;
+}
+.main1o p h2{
+    font-size: 1.5rem;
+}
+.main10{
+    padding-top: 5rem;
+    padding-left: 2rem;
+}
+.image10{
+    padding-left: 1rem;
+}
+.image9{
+    padding-left: 2rem;
+}
+.parent12{
+    text-align: center;
+    background-color:rgb(240, 236, 236);
+    height: 5rem;
+    margin-top: 5rem;
+    padding-top: 1.5rem;  
+
+}
+.footer{
+    background-color: rgb(74,48,131);
+
+}
+.footertop{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.footertop1{
+    width: 25%;
+    padding-left: 14rem;
+
+}
+.footertop2{
+    width: 25%;
+    
+
+}
+.footertop3{
+    width: 25%;
+
+}
+.footertop4{
+    width: 25%;
+
+}
+.top4-2{
+    padding-top: 2rem;
+   
+}
+.top4-3{
+    padding-top: 4rem;  
+}
+ .fotterbottom{
+    display: flex;
+    justify-content: space-evenly;
+     color: rgb(209, 198, 198); 
+     padding-left: 5rem;
+ }
+ .footertop h3{
+    color:  rgb(209, 198, 198);
+ }
+ .fotterbottom1{
+    text-align: center;
+    width:50% ;
+ }
+ 
+ 
